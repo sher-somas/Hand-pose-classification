@@ -13,5 +13,5 @@ I'd like to discuss 2 approaches to this problem.
 Video demo can be found on [youtube](https://youtu.be/3V5tQBCl8wQ)
 
 
-To know more about the project please refer to this ![blog](https://sher-somas.github.io/posts/2012/08/hand-gesture-classification/)
+To know more about the project please refer to this [blog](https://sher-somas.github.io/posts/2012/08/hand-gesture-classification/)
 
